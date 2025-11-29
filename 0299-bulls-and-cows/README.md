@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/bulls-and-cows/?page=1">299. Bulls and Cows</a></h2><h3>Medium</h3><hr><p>You are playing the <strong><a href="https://en.wikipedia.org/wiki/Bulls_and_Cows" target="_blank">Bulls and Cows</a></strong> game with your friend.</p>
+<h2><a href="https://leetcode.com/problems/bulls-and-cows">299. Bulls and Cows</a></h2><h3>Medium</h3><hr><p>You are playing the <strong><a href="https://en.wikipedia.org/wiki/Bulls_and_Cows" target="_blank">Bulls and Cows</a></strong> game with your friend.</p>
 
 <p>You write down a secret number and ask your friend to guess what the number is. When your friend makes a guess, you provide a hint with the following info:</p>
 
